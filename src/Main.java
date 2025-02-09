@@ -20,5 +20,9 @@ public class Main {
         }
         //print sorted array
         System.out.println(Arrays.toString(ages));
+
+        //Alternatively, you can use the Arrays.sort() built-in method
+        //Arrays.sort(ages);
+        //This will rearrange the elements in ascending order as the above code will do
     }
 }
